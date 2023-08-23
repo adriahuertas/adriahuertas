@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you</h1>
 
 
-<p>Welcome to my page! </br> I'm Adrià, Fullstack developer from <img src="https://img.icons8.com/?size=512&id=MRQWA3gxIrCt&format=png" width="13"/> <b>Catalunya, Spain</b>, currently living in <img src="https://img.icons8.com/?size=512&id=MRQWA3gxIrCt&format=png" width="13"/> <b>Girona, Spain</b>. </p>
+<p>Welcome to my page! </br> I'm Adrià, Fullstack developer from :es: <b>Catalunya, Spain</b>, currently living in <b>Girona, Spain</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
