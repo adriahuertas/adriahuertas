@@ -27,6 +27,7 @@
 
 <h3>Check some of my demo projects</h3>
 <ul>
+  <li><a href="https://github.com/adriahuertas/next-react-app-demo"><b>Nextjs/React Demo App (simple clone of twitter)</b></a><br><i>Simple clone of twitter</i></li>
   <li><a href="https://github.com/adriahuertas/angular-podcast-player"><b>Angular Podcast Player</b></a><br/><i>Angular demo app with responsive design</i></li>
   <li><a href="https://github.com/adriahuertas/blogs-api-demo"><b>Back-end API</b></a><br/><i>Nodejs/Express API with some nice features</i></li>
   <li><a href="https://github.com/adriahuertas/flask-api-demo"><b>Simple API</b></a><br/><i>A simple API made with Python/flask</i></li>
@@ -35,6 +36,6 @@
 
 <h3>Coming soon</h3>
 <ul>
-  <li>Nextjs/React demo project</li>
+  <li>More React and Angular projects</li>
   <li>New features to Blogs-api-demo</li>
 </ul>
