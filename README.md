@@ -25,7 +25,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-123456?style=for-the-badge&logo=Python&logoColor=white" />
 </p>
 
-<h3>Check some of my demo projects</h3>
+<h3>Check out some of my demo projects</h3>
 <ul>
   <li><a href="https://github.com/adriahuertas/next-react-app-demo"><b>Nextjs/React Demo App</b></a><br><i>Simple clone of twitter</i></li>
   <li><a href="https://github.com/adriahuertas/javascript-quiz"><b>Vite/React Demo App </b></a> 🚀🚀 Deployed on <a href="https://zingy-kringle-9b52ac.netlify.app/"><b>Netlify</b></a><br><i>JavaScript Quiz Game</i></li>
