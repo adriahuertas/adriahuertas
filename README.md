@@ -4,7 +4,7 @@
 <p>Welcome to my page! </br> I'm Adrià, Fullstack developer from :es: <b>Catalunya, Spain</b>, currently living in <b>Girona, Spain</b>. </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /> 
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -28,9 +28,9 @@
 <h3>Check some of my demo projects</h3>
 <ul>
   <li><a href="https://github.com/adriahuertas/next-react-app-demo"><b>Nextjs/React Demo App</b></a><br><i>Simple clone of twitter</i></li>
-  <li><a href="https://github.com/adriahuertas/javascript-quiz"><b>Vite/React Demo App</b></a><br><i>JavaScript Quiz Game</i></li>
-  <li><a href="https://github.com/adriahuertas/angular-podcast-player"><b>Angular Podcast Player</b></a><br/><i>Angular demo app with responsive design</i></li>
-  <li><a href="https://github.com/adriahuertas/blogs-api-demo"><b>Back-end API</b></a><br/><i>Nodejs/Express API with some nice features</i></li>
+  <li><a href="https://github.com/adriahuertas/javascript-quiz"><b>Vite/React Demo App </b></a> 🚀🚀 Deployed on <a href="https://zingy-kringle-9b52ac.netlify.app/"><b>Netlify</b></a><br><i>JavaScript Quiz Game</i></li>
+  <li><a href="https://github.com/adriahuertas/angular-podcast-player"><b>Angular Podcast Player</b></a> 🚀🚀 Deployed on <a href="https://tranquil-jelly-a91e15.netlify.app/"><b>Netlify</b></a><br/><i>Angular demo app with responsive design</i></li>
+  <li><a href="https://github.com/adriahuertas/blogs-api-demo"><b>Back-end API</b></a> 🚀🚀 Deployed on <a href="https://blog-api-demo.onrender.com/"><b>Render</b></a><br/><i>Nodejs/Express API with some nice features</i></li>
   <li><a href="https://github.com/adriahuertas/flask-api-demo"><b>Simple API</b></a><br/><i>A simple API made with Python/flask</i></li>
   <li><a href="https://github.com/adriahuertas/TennisStrokeDetection"><b>Machine learning</b></a><br/><i>App for Android to capture acc and gyro data plus a machine learning model to classify tennis strokes</i></li>
 </ul>
