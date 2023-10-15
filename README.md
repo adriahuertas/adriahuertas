@@ -26,7 +26,7 @@
 
 <h3>Check out some of my demo projects</h3>
 <ul>
-  <li><a href="https://github.com/adriahuertas/next-react-app-demo"><b>Nextjs/React Demo App</b></a><br><i>Simple clone of twitter</i></li>
+  <li><a href="https://github.com/adriahuertas/twitter-clone"><b>React/NextJS Demo App</b></a> 🚀🚀 Deployed on <a href="https://twitter-clone-1869scdfi-adriahuertas.vercel.app/"><b>Vercel</b></a><br><i>Clone of twitter</i></li>
   <li><a href="https://github.com/adriahuertas/javascript-quiz"><b>Vite/React Demo App </b></a> 🚀🚀 Deployed on <a href="https://zingy-kringle-9b52ac.netlify.app/"><b>Netlify</b></a><br><i>JavaScript Quiz Game</i></li>
   <li><a href="https://github.com/adriahuertas/angular-store"><b>Angular Webshop</b></a> 🚀🚀 Deployed on <a href="https://spontaneous-trifle-247e49.netlify.app"><b>Netlify</b></a><br/><i>Angular demo Webshop app with Angular Material and Tailwind</i></li>
   <li><a href="https://github.com/adriahuertas/angular-podcast-player"><b>Angular Podcast Player</b></a> 🚀🚀 Deployed on <a href="https://tranquil-jelly-a91e15.netlify.app/"><b>Netlify</b></a><br/><i>Angular demo app with responsive design</i></li>
