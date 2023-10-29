@@ -26,6 +26,7 @@
 
 <h3>Check out some of my demo projects</h3>
 <ul>
+  <li><a href="https://github.com/adriahuertas/remix-app"><b>Remix Demo App</b></a> 🚀🚀 Deployed on <a href="https://remix-app-omega.vercel.app"><b>Vercel</b></a><br><i>MovieDB</i></li>
   <li><a href="https://github.com/adriahuertas/twitter-clone"><b>React/NextJS Demo App</b></a> 🚀🚀 Deployed on <a href="https://twitter-clone-git-main-adriahuertas.vercel.app/"><b>Vercel</b></a><br><i>Twitter clone</i></li>
   <li><a href="https://github.com/adriahuertas/javascript-quiz"><b>Vite/React Demo App </b></a> 🚀🚀 Deployed on <a href="https://zingy-kringle-9b52ac.netlify.app/"><b>Netlify</b></a><br><i>JavaScript Quiz Game</i></li>
   <li><a href="https://github.com/adriahuertas/angular-store"><b>Angular Webshop</b></a> 🚀🚀 Deployed on <a href="https://spontaneous-trifle-247e49.netlify.app"><b>Netlify</b></a><br/><i>Angular demo Webshop app with Angular Material and Tailwind</i></li>
