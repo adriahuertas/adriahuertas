@@ -39,8 +39,3 @@
   <li><a href="https://github.com/adriahuertas/TennisStrokeDetection"><b>Machine learning</b></a><br/><i>App for Android to capture acc and gyro data plus a machine learning model to classify tennis strokes</i></li>
 </ul>
 
-<h3>Coming soon</h3>
-<ul>
-  <li>More React and Angular projects</li>
-  <li>New features to Blogs-api-demo</li>
-</ul>
